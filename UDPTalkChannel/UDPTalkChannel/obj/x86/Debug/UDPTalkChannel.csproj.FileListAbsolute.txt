@@ -1,0 +1,5 @@
+C:\Users\amir\codes\UDPTalkChannel\UDPTalkChannel\bin\Debug\UDPTalkChannel.pdb
+C:\Users\amir\codes\UDPTalkChannel\UDPTalkChannel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amir\codes\UDPTalkChannel\UDPTalkChannel\obj\x86\Debug\UDPTalkChannel.pdb
+C:\Users\amir\codes\UDPTalkChannel\UDPTalkChannel\bin\Debug\UDPTalkChannel.dll
+C:\Users\amir\codes\UDPTalkChannel\UDPTalkChannel\obj\x86\Debug\UDPTalkChannel.dll
